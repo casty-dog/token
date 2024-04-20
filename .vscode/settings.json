@@ -22,6 +22,7 @@
     "compilerversion",
     "degen",
     "IERC",
+    "mintable",
     "nomicfoundation",
     "Pausable",
     "Roleable",

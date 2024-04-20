@@ -35,6 +35,7 @@
     "typescript": "^5.1.6"
   },
   "dependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.10",
     "@openzeppelin/contracts": "^5.0.2",
     "merkletreejs": "^0.3.10",
     "node-fetch": "^3.3.2",
