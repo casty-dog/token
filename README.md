@@ -28,5 +28,5 @@ npm run release
 ## Test
 
 ```bash
-npm test
+npm run test
 ```
